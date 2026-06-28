@@ -10,9 +10,6 @@ num_oculto= random.randint (1, 500)
 # Variable que almacenará la cantidad de intentos realizados por el jugador
 intentos= 0
 
-# Muestra el número oculto (se usa solo para pruebas, normalmente se elimina en el juego)
-print(num_oculto)
-
 # Mantiene el juego repitiéndose hasta que el usuario adivine el número
 while True:
     Inicie_su_Intento= int(input("Ingrese su intento con números del 1 al 500:   "))
