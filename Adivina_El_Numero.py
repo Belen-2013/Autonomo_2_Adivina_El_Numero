@@ -1,5 +1,5 @@
 
-# Mensaje inicial del juego
+# Mensaje inicial
 print("BIENVENIDOS AL JUEGO ADIVINA EL NÚMERO")
 
 import random # Importa la librería que permite generar números aleatorios
